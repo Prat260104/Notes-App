@@ -1,23 +1,26 @@
 # 📝 Notes App
 
-A simple and elegant Notes App built using **HTML**, **CSS**, and **JavaScript**. This app allows users to write and manage short notes in the browser with auto-saving using local storage.
+A simple and elegant **Notes App** built using HTML, CSS, and JavaScript. This app lets you create, auto-save, and manage notes in your browser with support for local storage, live updates, and more.
 
 ---
 
 ## 🚀 Features
 
-- 🆕 Add new notes instantly
-- ✏️ Auto-save notes to local storage
-- ❌ Double-click to delete any note
-- 💾 Data persists even after refreshing the page
+- ➕ Add unlimited notes with a single click
+- 🔄 Auto-save notes as you type
+- ✍️ Live character count for each note
+- 🕒 Timestamp (created/last updated) on every note
+- ❌ Double-click to delete with confirmation
+- 💾 Notes persist across page reloads (local storage)
+- 🧹 Clean and responsive layout with CSS Grid
 
 ---
 
 ## 🔧 Tech Stack
 
-- **HTML5** – Page structure
-- **CSS3** – Styling and layout (responsive grid, hover effects)
-- **Vanilla JavaScript** – Dynamic note creation, deletion, and local storage handling
+- **HTML5** – structure
+- **CSS3** – layout and styling
+- **Vanilla JavaScript** – logic and localStorage
 
 ---
 
