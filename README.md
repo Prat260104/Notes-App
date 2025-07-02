@@ -24,5 +24,25 @@ A clean and elegant **Notes App** built using **HTML**, **CSS**, and **Vanilla J
 
 ---
 
+## ⚙️ Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Prat260104/Notes-App.git
+cd Notes-App
+```
+
+---
+
+### 2. Run the App
+Just open index.html in your preferred browser:
+```bash
+start index.html      # For Windows
+open index.html       # For macOS
+xdg-open index.html   # For Linux
+```
+
+
 
 
